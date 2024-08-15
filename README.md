@@ -1,7 +1,7 @@
 <h1>FTK Imager, ProcDump, and KAPE</h1>
 
 <h2>Description</h2>
-Use FTK Imager, ProcDump, and KAPE to acquire data for later analysis.
+Used FTK Imager, ProcDump, and KAPE to acquire data for later analysis.
 <br />
 
 <h2>Lab Certification:</h2>
