@@ -8,7 +8,7 @@ Used FTK Imager, ProcDump, and KAPE to acquire data for later analysis.
 
 <p align="center">
 <br/>
-<img src="" height="80%" width="80%" alt="portfolio"/>
+<img src="https://i.imgur.com/o3FFtoq.png" height="80%" width="80%" alt="portfolio"/>
 <br />
 
 
